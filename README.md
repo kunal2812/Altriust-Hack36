@@ -14,18 +14,14 @@
 
 
   
-## Demo Video Link:
-  <a href=" "> </a>
-  
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/1sxFQWPwb0HDdIfnU1kK6ChjPUvYjfy_D8F-5p0eJ6tQ/edit?usp=sharing">Link for ppt </a>
   
-  
-## Table of Contents:
+
 
 ## Technology Stack:
   1) Tensorflow
-  2) Google Colab
+  2) Streamlite
   3) Pandas
   4) Heroku
   
