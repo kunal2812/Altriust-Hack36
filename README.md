@@ -5,11 +5,11 @@
 
 
 ## Introduction:
-  Often there are cases where we hear college students suffering from depression and commiting suicide due to several issues such asd academic pressure, peer pressure etc.
-  Not a major issue considering the the other issues India is facing but yes it is a serious issue
-  Our project attempts to keep a check on the happiness level of all the hostellers through the CCTV footage
-  CCTV might be used at the entrance
-  Altriust uses 2 models, one of which is to recognise the person in the frame and the other to check and measure the happiness level
+  Often there are cases where we hear college students suffering from depression and commiting suicide due to several issues such as academic pressure, peer pressure etc.</br>
+  Not a major issue considering the the other issues India is facing but yes it is a serious issue</br>
+  Our project attempts to keep a check on the happiness level of all the hostellers through the CCTV footage</br>
+  CCTV might be used at the entrance</br>
+  Altriust uses 2 models, one of which is to recognise the person in the frame and the other to check and measure the happiness level</br>
   Altriust keeps track of all hostellers over a period of time and gives warning and can text warden, parents or friend to talk more often to the subject, if it falls below a certain threshold
 
 
