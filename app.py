@@ -289,7 +289,7 @@ def main():
     phn_db["felix"] = "345134535"
 
     database["benoit"] = img_to_encoding("./images/benoit.jpg", FrNet)
-    add_to_database("benoit", d1, predict_score("./Hack36/images/benoit.jpg", EmoNet))
+    add_to_database("benoit", d1, predict_score("./images/benoit.jpg", EmoNet))
     phn_db["benoit"] = "21416778"
 
     database["arnaud"] = img_to_encoding("./images/arnaud.jpg", FrNet)
@@ -319,7 +319,7 @@ def main():
         phn_db[name] = str(phn)
         img2 = tf.keras.preprocessing.image.load_img(img_path, target_size=(96, 96))
         img2 = img2.save("gg.jpg")
-        img_path2 = "./temps/gg.jpg"
+        img_path2 = "./gg.jpg"
         database[name] = img_to_encoding(img_path2, FrNet)
 
   elif choice == "View Database":
