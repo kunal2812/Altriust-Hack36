@@ -216,7 +216,7 @@ def scan_vdo(f, date):
         print("Can't receive frame (stream end?). Exiting ...")
         break
     cv.imwrite("frame.jpg", frame)
-    img_path = './temps/frame.jpg'
+    img_path = './frame.jpg'
     person = identify(tf.keras.preprocessing.image.load_img(img_path, target_size=(48, 48)), database, FrNet)
     if person!="Not Found":
       add_to_database(person,f_date,predict_score(img_path, EmoNet))
