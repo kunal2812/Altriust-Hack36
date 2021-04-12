@@ -1,5 +1,8 @@
 opencv_python==4.4.0.44
 numpy==1.18.2
+setuptools
+Cython
+wheel
 pandas==1.0.3
 matplotlib==3.2.1
 dlib==19.22.0
