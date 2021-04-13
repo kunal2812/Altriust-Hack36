@@ -8,4 +8,4 @@ Pillow==8.2.0
 scikit-image
 streamlit==0.80.0
 streamlit_webrtc==0.8.1
-tensorflow
+tensorflow-cpu
