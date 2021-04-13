@@ -1,4 +1,4 @@
-opencv_python==4.3.0.38
+opencv_python
 numpy
 Cython
 pandas
