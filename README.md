@@ -53,8 +53,6 @@ streamlit app.py
 
 ## Contributors:
 
-Team Name: Kryptonites
-
 * [Kunal Katiyar](https://github.com/kunal2812)
 * [Awanish Singh](https://github.com/ak-1-1)
 * [Praveen Saraswat](https://github.com/SaraswatPraveen)
