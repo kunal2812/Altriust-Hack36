@@ -1,3 +1,6 @@
+# Altruist
+## Team Name: Kryptonites
+
 <p align="center">
 </p>
 
@@ -5,26 +8,48 @@
 
 
 ## Introduction:
-  Often there are cases where we hear college students suffering from depression and taking harsh actions due to several issues such as academic pressure, peer pressure etc.</br>
-  Not a major issue considering the the other issues India is facing but yes it is a serious issue</br>
-  Our project attempts to keep a check on the happiness level of all the hostellers through the CCTV footage</br>
-  CCTV might be used at the entrance</br>
-  Altruist uses 2 models, one of which is to recognise the person in the frame and the other to check and measure the happiness level</br>
-  Altruist keeps track of all hostellers over a period of time and gives warning and can text warden, parents or friend to talk more often to the subject, if it falls below a certain threshold
+
+  - Often we hear college students suffering from depression and taking harsh actions due to academic pressure, peer pressure etc.</br>
+  - Our project keeps track of all hostellers over a period of time using CCTV entrance footage and performs specific actions if it falls below a certain threshold.</br>
+  - Altruist uses 2 models, one of which is to recognise the person in the frame and the other to assign the happiness score</br>
+  
 
 
+## Installation:
+
+Git cloning the repository
+```
+git clone https://github.com/kunal2812/Altruist-Hack36.git
+```
+Installing all dependencies in requirements.txt
+```
+pip install -r requirements.txt
+```
+Change directory 
+```
+cd Altruist-Hack36
+```
+Run the application
+```
+streamlit app.py
+```
   
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/1sxFQWPwb0HDdIfnU1kK6ChjPUvYjfy_D8F-5p0eJ6tQ/edit?usp=sharing">Link for ppt </a>
   
 
-
 ## Technology Stack:
   1) Tensorflow
-  2) Streamlite
+  2) Streamlit
   3) Pandas
   4) Heroku
   
+## Screenshots: 
+
+![Screenshot 1](./Screenshots/2.jpeg)
+![Screenshot 2](./Screenshots/3.png)
+![Screenshot 3](./Screenshots/4.png)
+![Screenshot 4](./Screenshots/1.jpeg)
 
 ## Contributors:
 
@@ -35,5 +60,8 @@ Team Name: Kryptonites
 * [Praveen Saraswat](https://github.com/SaraswatPraveen)
 
 
-### Made at:
+## License:
+
+MIT
+
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>

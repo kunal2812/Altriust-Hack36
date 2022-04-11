@@ -18,6 +18,7 @@ from PIL import Image, ImageOps
 from skimage import io
 import matplotlib.pyplot as plt
 
+os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 
 def img_to_encoding(image_path, model):
     img1 = cv.imread(image_path, 1)
