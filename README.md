@@ -31,12 +31,16 @@ cd Altruist-Hack36
 ```
 Run the application
 ```
-streamlit app.py
+streamlit run app.py
 ```
   
 ## Presentation Link:
-  <a href="https://docs.google.com/presentation/d/1sxFQWPwb0HDdIfnU1kK6ChjPUvYjfy_D8F-5p0eJ6tQ/edit?usp=sharing">Link for ppt </a>
+  <a href="https://docs.google.com/presentation/d/1sxFQWPwb0HDdIfnU1kK6ChjPUvYjfy_D8F-5p0eJ6tQ/edit?usp=sharing">Link for Presentation </a>
   
+## Video Link:
+  <a href="https://drive.google.com/file/d/1UtW7bbZFRH2ixkF6Hitux6uA5YazGR6L/view?usp=sharing">Link for Video </a>
+  
+
 
 ## Technology Stack:
   1) Tensorflow
